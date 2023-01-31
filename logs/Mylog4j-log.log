@@ -1,0 +1,50 @@
+[INFO ] 2023-01-23 23:20:47.938 [main] Loggerload - User is clicking on GetStarted button on Main Page
+[INFO ] 2023-01-23 23:20:49.606 [main] Loggerload - Title of current page is ***** Numpy Ninja ****
+[INFO ] 2023-01-23 23:21:25.631 [main] Loggerload - User is clicking on GetStarted button on Main Page
+[INFO ] 2023-01-23 23:21:27.214 [main] Loggerload - Title of current page is ***** Numpy Ninja ****
+[INFO ] 2023-01-24 14:31:17.463 [main] Loggerload - Verifying user landed on home page after clicking on Get Started button
+[INFO ] 2023-01-24 14:31:19.075 [main] Loggerload - Clicking on Register button
+[INFO ] 2023-01-24 14:31:20.802 [main] Loggerload - Clicking on Login button
+[INFO ] 2023-01-24 14:56:13.052 [main] Loggerload - Verifying user landed on home page after clicking on Get Started button
+[INFO ] 2023-01-24 14:56:14.603 [main] Loggerload - Clicking on Register button
+[INFO ] 2023-01-24 14:56:16.310 [main] Loggerload - Clicking on Login button
+[INFO ] 2023-01-24 14:56:17.579 [main] Loggerload - User is clicking on GetStarted button on Main Page
+[INFO ] 2023-01-24 14:56:19.136 [main] Loggerload - Title of current page is ***** Numpy Ninja ****
+[INFO ] 2023-01-24 14:59:54.213 [main] Loggerload - Verifying user landed on home page after clicking on Get Started button
+[INFO ] 2023-01-24 14:59:55.778 [main] Loggerload - Clicking on Register button
+[INFO ] 2023-01-24 14:59:57.421 [main] Loggerload - Clicking on Login button
+[INFO ] 2023-01-24 14:59:58.624 [main] Loggerload - User is clicking on GetStarted button on Main Page
+[INFO ] 2023-01-24 15:00:00.075 [main] Loggerload - Title of current page is ***** Numpy Ninja ****
+[INFO ] 2023-01-25 21:51:43.212 [main] Loggerload - User is clicking on SignIn button without Login
+[INFO ] 2023-01-26 17:15:17.747 [main] Loggerload - User is clicking on SignIn button without Login
+[INFO ] 2023-01-26 17:15:19.591 [main] Loggerload - Verifying user landed on home page after clicking on Get Started button
+[INFO ] 2023-01-26 17:15:21.209 [main] Loggerload - Clicking on Register button on Home Page
+[INFO ] 2023-01-26 17:15:22.956 [main] Loggerload - Clicking on Login button on Home Page
+[INFO ] 2023-01-27 19:19:30.205 [main] Loggerload - User is clicking on SignIn button without Login
+[INFO ] 2023-01-27 19:19:31.966 [main] Loggerload - Verifying user landed on home page after clicking on Get Started button
+[INFO ] 2023-01-27 19:19:33.693 [main] Loggerload - Clicking on Register button on Home Page
+[INFO ] 2023-01-27 19:19:35.552 [main] Loggerload - Clicking on Login button on Home Page
+[INFO ] 2023-01-27 19:19:36.859 [main] Loggerload - User is clicking on GetStarted button on Main Page
+[INFO ] 2023-01-27 19:19:38.762 [main] Loggerload - Title of current page is ***** Numpy Ninja ****
+[INFO ] 2023-01-27 20:36:44.216 [main] Loggerload - User is clicking on SignIn button without Login
+[INFO ] 2023-01-27 20:37:05.718 [main] Loggerload - Verifying user landed on home page after clicking on Get Started button
+[INFO ] 2023-01-27 20:37:17.092 [main] Loggerload - Clicking on Register button on Home Page
+[INFO ] 2023-01-27 20:37:44.292 [main] Loggerload - Clicking on Login button on Home Page
+[INFO ] 2023-01-27 20:39:20.657 [main] Loggerload - Clicking on Login button on Home Page
+[INFO ] 2023-01-27 20:41:14.701 [main] Loggerload - Verifying user landed on home page after clicking on Get Started button
+[INFO ] 2023-01-27 20:42:22.118 [main] Loggerload - Verifying user landed on home page after clicking on Get Started button
+[INFO ] 2023-01-27 20:43:24.873 [main] Loggerload - User is clicking on SignIn button without Login
+[INFO ] 2023-01-27 20:44:16.807 [main] Loggerload - Verifying user landed on home page after clicking on Get Started button
+[INFO ] 2023-01-27 20:44:38.484 [main] Loggerload - Clicking on Register button on Home Page
+[INFO ] 2023-01-27 20:45:20.440 [main] Loggerload - Clicking on Login button on Home Page
+[INFO ] 2023-01-27 20:49:59.292 [main] Loggerload - Clicking on Login button on Home Page
+[INFO ] 2023-01-27 20:51:21.559 [main] Loggerload - Clicking on Register button on Home Page
+[INFO ] 2023-01-27 20:53:22.849 [main] Loggerload - User is clicking on SignIn button without Login
+[INFO ] 2023-01-27 20:59:22.807 [main] Loggerload - User is clicking on SignIn button without Login
+[INFO ] 2023-01-27 21:00:14.743 [main] Loggerload - Verifying user landed on home page after clicking on Get Started button
+[INFO ] 2023-01-27 21:00:36.134 [main] Loggerload - Clicking on Register button on Home Page
+[INFO ] 2023-01-27 21:01:17.675 [main] Loggerload - Clicking on Login button on Home Page
+[INFO ] 2023-01-27 21:06:15.853 [main] Loggerload - User is clicking on SignIn button without Login
+[INFO ] 2023-01-27 21:07:07.478 [main] Loggerload - Verifying user landed on home page after clicking on Get Started button
+[INFO ] 2023-01-27 21:07:28.790 [main] Loggerload - Clicking on Register button on Home Page
+[INFO ] 2023-01-27 21:08:00.343 [main] Loggerload - Clicking on Login button on Home Page
